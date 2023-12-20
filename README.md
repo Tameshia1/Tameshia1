@@ -1,4 +1,4 @@
-<h1>Hi, I'm Tameshia, an <a href="https:www.linkedin.com/in/tameshia-fisher-556105280">IT Professional</a>☺</h1>
+<h1>Hi, I'm Tameshia, an <a href="https://www.linkedin.com/in/tameshia-fisher-556105280">IT Professional</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
@@ -9,6 +9,5 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-
 
 [linkedin]: https://www.linkedin.com/in/tameshia-fisher-556105280
